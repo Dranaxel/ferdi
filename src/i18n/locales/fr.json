@@ -304,7 +304,7 @@
   "settings.app.form.hibernationStrategy": "Stratégie d'hibernation",
   "settings.app.form.iconSize": "Taille de l'icône du service",
   "settings.app.form.inactivityLock": "Verrouiller après inactivité",
-  "settings.app.form.keepAllWorkspacesLoaded": "Garder tous les espaces de travail charger",
+  "settings.app.form.keepAllWorkspacesLoaded": "Garder tous les espaces de travail chargés",
   "settings.app.form.language": "Langue",
   "settings.app.form.lockPassword": "Mot de passe",
   "settings.app.form.minimizeToSystemTray": "Minimiser Ferdi dans la zone de notification",
